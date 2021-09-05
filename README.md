@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **naveennavi077@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fsL6O90QU26bfiNMvK6hcvCRHZsTf1ex/view?usp=sharing](https://drive.google.com/file/d/1pnQpid4XipZWnAgMb7Sf-yqxkqg7Qf5O/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fsL6O90QU26bfiNMvK6hcvCRHZsTf1ex/view?usp=sharing](https://drive.google.com/file/d/1ojXyAIBHxfOhaD0tGPpTUYwY4D8Ncoc5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
