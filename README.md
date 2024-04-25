@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Naveen C</h1>
-<h3 align="center">Data Science enthusiast|Web Developer|Data Analysis|SQL</h3>
+<h1 align="center">Hi 👋, I'm Naveen Chandraiah</h1>
+<h3 align="center">Data Engineer | Data Science enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenc18&label=Profile%20views&color=0e75b6&style=flat" alt="naveenc18" /> </p>
 
-- 🌱 I’m currently learning **Statistics|Machine Learning|NLP|DL**
+- 🌱 I’m currently studying **Master's in Computer Science @ Julius-Maximilians-University Würzburg,Germany**
 
 - 👨‍💻 All of my projects are available at [https://github.com/naveenc18](https://github.com/naveenc18)
-
-- 💬 Ask me about **Data Analysis**
 
 - 📫 How to reach me **naveennavi077@gmail.com**
 
