@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naveen Chandraiah</h1>
 <h3 align="center">Data Engineer | Data Science enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenc18&label=Profile%20views&color=0e75b6&style=flat" alt="naveenc18" /> </p>
-
 - 🌱 I’m currently studying **Master's in Computer Science @ Julius-Maximilians-University Würzburg,Germany**
 
 - 👨‍💻 All of my projects are available at [https://github.com/naveenc18](https://github.com/naveenc18)
