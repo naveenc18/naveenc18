@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **naveennavi077@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fsL6O90QU26bfiNMvK6hcvCRHZsTf1ex/view?usp=sharing](https://drive.google.com/file/d/1ojXyAIBHxfOhaD0tGPpTUYwY4D8Ncoc5/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/naveen-chandraiah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naveen-chandraiah/" height="30" width="40" /></a>
